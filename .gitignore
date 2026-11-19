@@ -1,0 +1,17 @@
+# Compiled program and object files
+LibraryManagementSystem
+*.o
+*.obj
+*.exe
+*.out
+a.out
+
+# Debug and temporary files
+*.dSYM/
+*.tmp
+*.log
+*.swp
+*~
+
+# macOS
+.DS_Store
